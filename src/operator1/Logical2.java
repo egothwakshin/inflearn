@@ -8,4 +8,5 @@ public class Logical2 {
         System.out.println("result = " + result);
 
     }
+
 }
