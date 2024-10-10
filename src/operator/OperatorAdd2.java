@@ -1,4 +1,4 @@
-package operator1;
+package operator;
 
 public class OperatorAdd2 {
     public static void main(String[] args) {
